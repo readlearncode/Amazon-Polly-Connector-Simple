@@ -1,5 +1,5 @@
 ## Contents
 
-**xxxx** the Java project
+**amazon_polly_connector.jar** the Java project. Import this project into Anypoint Studio
 
-**xxxx** the compiled connector
+**amazon_polly_connector-1.0.0-SNAPSHOT-mule-plugin.jar** the compiled connector
